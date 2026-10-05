@@ -1,9 +1,4 @@
-# TradeNova OpenTelemetry Lab Kit (Day 1)
-
-Hands-on lab environment for the OpenTelemetry Intermediate to Advanced course. A fictional online brokerage, **TradeNova**, runs three services that participants instrument, fix and standardize across Labs A to E.
-
-- Participant instructions: [labs/Day1-Lab-Guide.md](labs/Day1-Lab-Guide.md)
-- Instructor answer key: [labs/Day1-Lab-Answers.md](labs/Day1-Lab-Answers.md)
+# TradeNova OpenTelemetry Lab Kit
 
 ## What's inside
 
